@@ -34,6 +34,8 @@ TDS
 
 pH
 
+metal waterproof DS18B20 temperature probe
+
 Rain
 
 MAX9814 sound level
